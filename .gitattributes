@@ -1,0 +1,8 @@
+# Keep the released sources identical across platforms: text files are stored
+# with LF endings in the repository, binary artefacts are never transformed.
+* text=auto eol=lf
+
+*.png binary
+*.xlsx binary
+*.pkl binary
+*.pt binary
