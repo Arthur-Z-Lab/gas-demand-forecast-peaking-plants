@@ -198,6 +198,3 @@ added to this repository after publication.
 This code is released together with the manuscript at
 <https://github.com/Arthur-Z-Lab/gas-demand-forecast-peaking-plants>.
 
-## 11. Contact
-
-Corresponding authors: Shangfei Song (song.sf@cup.edu.cn), Bohui Shi, China University of Petroleum-Beijing.
