@@ -37,7 +37,6 @@ The three components are summarized below.
 | `scripts/run_protocol.sh` | The 5 horizons x 5 folds x 5 seeds protocol used in the paper |
 | `data/HDQS.xlsx` | Representative samples of the primary series (see Section 3) |
 
-Not included: implementations of the baseline models, the four additional plant datasets, the robustness
-campaign, and the tables and figures of the manuscript.
+
 
 
